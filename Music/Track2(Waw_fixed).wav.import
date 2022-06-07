@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Track2(Waw_fixed).wav-b7d9443776bb496d5982dbc9a7a68703.sample"
+
+[deps]
+
+source_file="res://Music/Track2(Waw_fixed).wav"
+dest_files=[ "res://.import/Track2(Waw_fixed).wav-b7d9443776bb496d5982dbc9a7a68703.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=true
+compress/mode=0
